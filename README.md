@@ -5,7 +5,7 @@ Trivia Game Q/A's are must be stored in files with "tb" file format
 
 As of right now, answers have to be one word
 
-Formating must be corret!
+Formating must be corret! ;)
 
 ## Formating for QA.tb files
 Every question/answer set is stored in "{}"
